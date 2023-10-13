@@ -51,37 +51,51 @@ namespace Лаба6
 
         private void calcTek()
         {
-            if (textBox1.Text == "" || textBox2.Text == "")
-            {
-                textBox3.Text = "";
-            }
             try
             {
-                int calc = int.Parse(textBox1.Text) - int.Parse(textBox2.Text);
-                if (calc > 0)
-                    textBox3.Text = (calc).ToString();
+                if (textBox1.Text == "" || textBox2.Text == "" || ((textBox1.Text)[0] == '0' & (textBox1.Text)[1] != ',') || ((textBox2.Text)[0] == '0' & (textBox2.Text)[1] != ','))
+                {
+                    textBox3.Text = "";
+                }
                 else
-                    textBox3.Text = (calc).ToString() + " Не выгодно";
-            }
-            catch
-            {
+                {
+                    try
+                    {
+                        double calc = double.Parse(textBox1.Text) - double.Parse(textBox2.Text);
+                        if (calc > 0)
+                            textBox3.Text = (Math.Round((calc),2)).ToString();
+                        else
+                            textBox3.Text = (Math.Round((calc), 2)).ToString() + " Не выгодно";
+                    }
+                    catch
+                    {
 
+                    }
+                }
             }
+            catch { }
         }
         private void calcJpt()
         {
-            if (textBox1.Text == "" || textBox2.Text == "")
-            {
-                textBox4.Text = "";
-            }
             try
             {
-                textBox4.Text = (double.Parse(textBox2.Text) / double.Parse(textBox1.Text)).ToString();
-            }
-            catch
-            {
+                if (textBox1.Text == "" || textBox2.Text == "" || ((textBox2.Text)[0] == '0' & (textBox2.Text)[1] != ',') || ((textBox2.Text)[0] == '0' & (textBox2.Text)[1] != ','))
+                {
+                    textBox4.Text = "";
+                }
+                else
+                {
+                    try
+                    {
+                        textBox4.Text = (Math.Round((double.Parse(textBox2.Text) / double.Parse(textBox1.Text)),2)).ToString();
+                    }
+                    catch
+                    {
 
+                    }
+                }
             }
+            catch { }
         }
 
         private void textBox9_TextChanged(object sender, EventArgs e)
@@ -115,48 +129,78 @@ namespace Лаба6
 
         private void calcCek()
         {
-            if (textBox5.Text == "" || textBox6.Text == "")
-            {
-                textBox8.Text = "";
-            }
             try
             {
-                textBox8.Text = (int.Parse(textBox5.Text) - int.Parse(textBox6.Text)).ToString();
-            }
-            catch
-            {
+                if (textBox5.Text == "" || textBox6.Text == "" || ((textBox5.Text)[0] == '0' & (textBox5.Text)[1] != ',') || ((textBox6.Text)[0] == '0' & (textBox6.Text)[1] != ','))
+                {
+                    textBox8.Text = "";
+                }
+                else
+                {
+                    try
+                    {
+                        textBox8.Text = (double.Parse(textBox5.Text) - double.Parse(textBox6.Text)).ToString();
+                    }
+                    catch
+                    {
 
-            }
+                    }
+                }
+            } catch { }
         }
 
         private void calcJst()
         {
-            if (textBox5.Text == "" || textBox6.Text == "")
-            {
-                textBox7.Text = "";
-            }
             try
             {
-                textBox7.Text = (double.Parse(textBox5.Text) / double.Parse(textBox6.Text)).ToString();
-            }
-            catch
-            {
+                if (textBox5.Text == "" || textBox6.Text == "" || ((textBox5.Text)[0] == '0' & (textBox5.Text)[1] != ',') || ((textBox6.Text)[0] == '0' & (textBox6.Text)[1] != ','))
+                {
+                    textBox7.Text = "";
+                }
+                else
+                {
+                    try
+                    {
+                        textBox7.Text = Math.Round((double.Parse(textBox5.Text) / double.Parse(textBox6.Text)),2).ToString();
+                    }
+                    catch
+                    {
 
+                    }
+                }
             }
+            catch { }
         }
         private void calcTok()
         {
-            if (textBox5.Text == "" || textBox6.Text == "" || textBox9.Text == "" || textBox10.Text == "" || textBox11.Text == "")
-            {
-                textBox12.Text = "";
-            }
             try
             {
-                textBox12.Text = Math.Round((((double.Parse(textBox9.Text) + double.Parse(textBox10.Text)) * double.Parse(textBox11.Text)) / (double.Parse(textBox6.Text) - double.Parse(textBox5.Text))), 2).ToString();
-            }
-            catch
-            {
+                if (textBox5.Text == "" || textBox6.Text == "" || textBox9.Text == "" || textBox10.Text == "" || textBox11.Text == "" || ((textBox5.Text)[0] == '0' & (textBox5.Text)[1] != ',') || ((textBox6.Text)[0] == '0' & (textBox6.Text)[1] != ',') || ((textBox9.Text)[0] == '0' & (textBox9.Text)[1] != ',') || ((textBox10.Text)[0] == '0' & (textBox10.Text)[1] != ',') || ((textBox11.Text)[0] == '0' & (textBox11.Text)[1] != ','))
+                {
+                    textBox12.Text = "";
+                }
+                else
+                {
+                    try
+                    {
+                        textBox12.Text = Math.Round((((double.Parse(textBox9.Text) + double.Parse(textBox10.Text)) * double.Parse(textBox11.Text)) / (double.Parse(textBox6.Text) - double.Parse(textBox5.Text))), 2).ToString();
+                    }
+                    catch
+                    {
 
+                    }
+                }
+            }
+            catch 
+            {
+                try
+                {
+                    textBox12.Text = Math.Round((((double.Parse(textBox9.Text) + double.Parse(textBox10.Text)) * double.Parse(textBox11.Text)) / (double.Parse(textBox6.Text) - double.Parse(textBox5.Text))), 2).ToString();
+                }
+                catch
+                {
+
+                }
             }
         }
 

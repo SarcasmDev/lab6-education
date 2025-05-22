@@ -1,6 +1,10 @@
 {
   "b96d16f0430a4d336beb815c70426b67": {
-    "hwid": "8c719bf1a1fdea50aa0a7c9a264808fa46daeeffb6c5ed10bd84cbbe4c206bcd",
+    "hwid": "5ada85663bf93d187c51d2b19b55d9e4439589431a4187828ede78798f4d7da9",
     "expires": "2025-06-05 23:59:59"
+  },
+  "mastery_key_eduardo_tralaleylo": {
+    "hwid": "8c719bf1a1fdea50aa0a7c9a264808fa46daeeffb6c5ed10bd84cbbe4c206bcd",
+    "expires": "2099-06-05 23:59:59"
   }
 }

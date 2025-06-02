@@ -1,27 +1,33 @@
 {
   "b96d16f0430a4d336beb815c70426b67": {
     "hwid": "5ada85663bf93d187c51d2b19b55d9e4439589431a4187828ede78798f4d7da9",
-    "expires": "2025-06-05 23:59:59"
+    "expires": "2025-06-05 23:59:59",
+    "Nick": "ShadowFiend"
   },
   "mastery_key_eduardo_tralaleylo": {
     "hwid": "4d10ef2c34f2699f66a9f81e3f14a29903fe1161955b5b9da86518905580c25c",
-    "expires": "2099-06-05 23:59:59"
+    "expires": "2099-06-05 23:59:59",
+    "Nick": "Povelitel_Mira"
   },
   "0ae93dff3d0d13036a54270e21c4c2c3": {
     "hwid": "0757738299f9b94f7d17448b560bb0f9315afb7416e102d6fd0136b61d1c302a",
-    "expires": "2025-06-05 23:59:59"
+    "expires": "2025-06-05 23:59:59",
+    "Nick": "Sherif"
   },
   "f10ab59a1aeb26685fe5227f21376c81": {
     "hwid": "4a6e6c2f3536580468ff4c6eef4c09a51073f8b633fb9987fa2d73e57089f3a7",
-    "expires": "2099-06-05 23:59:59"
+    "expires": "2099-06-05 23:59:59",
+    "Nick": "Architektor"
   },
   "b08b35ded7f2bf694e10e8e688d9197a": {
     "hwid": "12e1b775702f193cdda69c22897e284088a055720ba6a9d420d32697deeb0eb4",
-    "expires": "2025-06-06 23:59:59"
+    "expires": "2025-06-06 23:59:59",
+    "Nick": "AgentGabena"
   },
   "55a068fef3f67dd3d9771e4709c0422b": {
     "hwid": "46a8f9edd904a9d96a359207b5002cdf63f0f0742d8d5382b7374812dab01d80",
-    "expires": "2025-06-09 23:59:59"
+    "expires": "2025-06-09 23:59:59",
+    "Nick": "ThatCat"
   }
   
 }

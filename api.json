@@ -43,6 +43,12 @@
     "hwid": "9d5e7cfd0cc1c775c4d78f077c6dda9c8638d8e689042568605adc6494af7e0d",
     "expires": "2025-06-18 23:59:59",
     "Nick": "Johhnie"
+  },
+  "test_1_hour": {
+    "hwid": "e6d0669049a5f428714cdafb70d166cda28aec8d5cb8c7e822801b47d75088b3",
+    "expires": "2025-06-18 23:59:59",
+    "Nick": "Evil_q_"
   }
+  
   
 }

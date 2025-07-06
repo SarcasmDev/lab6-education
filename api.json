@@ -36,8 +36,13 @@
   },
   "63f4945d921d599f27ae4fdf5bada3f1": {
     "hwid": "12d29df632cad97ba2b5f31114c122b293bc97fe20384198fc5f1b24ab51cab5",
-    "expires": "2025-07-02 23:59:59",
+    "expires": "2025-07-14 23:59:59",
     "Nick": "Oru"
+  },
+  "63f4945d921d599f27ae4fdf5bada3f2": {
+    "hwid": "12d29df632cad97ba2b5f31114c122b293bc97fe20384198fc5f1b24ab51cab5",
+    "expires": "2025-07-14 23:59:59",
+    "Nick": "Oru_friend"
   },
   "c47aeea9e4970e574d3c11011a001812": {
     "hwid": "9d5e7cfd0cc1c775c4d78f077c6dda9c8638d8e689042568605adc6494af7e0d",

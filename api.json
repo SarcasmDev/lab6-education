@@ -113,6 +113,16 @@
     "hwid": "29d955850f9f2d86ebcc82cf4c5ae340f5a068e26652c12919c361473d48c3c0",
     "expires": "2025-08-05 23:59:59",
     "Nick": "Sasha"
+  },
+  "test_2_days_dunich": {
+    "hwid": "9a778fb6f40c6960cb7d6f05cbcf82bed7a6e32ff04d8ca216b02c1c2c5e7e6e",
+    "expires": "2025-08-05 23:59:59",
+    "Nick": "Dunich"
+  },
+  "test_2_days_casyap": {
+    "hwid": "29d955850f9f2d86ebcc82cf4c5ae340f5a068e26652c12919c361473d48c3c0",
+    "expires": "2025-08-05 23:59:59",
+    "Nick": "casyap"
   } 
   
 }

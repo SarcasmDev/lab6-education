@@ -1,9 +1,4 @@
 {
-  "b96d16f0430a4d336beb815c70426b67": {
-    "hwid": "5ada85663bf93d187c51d2b19b55d9e4439589431a4187828ede78798f4d7da9",
-    "expires": "2025-06-05 23:59:59",
-    "Nick": "ShadowFiend"
-  },
   "mastery_key_eduardo_tralaleylo": {
     "hwid": "4d10ef2c34f2699f66a9f81e3f14a29903fe1161955b5b9da86518905580c25c",
     "expires": "2099-06-05 23:59:59",
@@ -14,25 +9,10 @@
     "expires": "2099-06-05 23:59:59",
     "Nick": "Povelitel_Mira"
   },
-  "0ae93dff3d0d13036a54270e21c4c2c3": {
-    "hwid": "56a1c83f5bcbc3ca80ec637e948919313a02762d51ecaf892974979d00af8c7b",
-    "expires": "2025-07-04 23:59:59",
-    "Nick": "Sherif"
-  },
   "f10ab59a1aeb26685fe5227f21376c81": {
     "hwid": "4a6e6c2f3536580468ff4c6eef4c09a51073f8b633fb9987fa2d73e57089f3a7",
     "expires": "2099-06-05 23:59:59",
     "Nick": "Architektor"
-  },
-  "b08b35ded7f2bf694e10e8e688d9197a": {
-    "hwid": "12e1b775702f193cdda69c22897e284088a055720ba6a9d420d32697deeb0eb4",
-    "expires": "2025-06-06 23:59:59",
-    "Nick": "AgentGabena"
-  },
-  "55a068fef3f67dd3d9771e4709c0422b": {
-    "hwid": "46a8f9edd904a9d96a359207b5002cdf63f0f0742d8d5382b7374812dab01d80",
-    "expires": "2025-06-18 23:59:59",
-    "Nick": "ThatCat"
   },
   "63f4945d921d599f27ae4fdf5bada3f1": {
     "hwid": "12d29df632cad97ba2b5f31114c122b293bc97fe20384198fc5f1b24ab51cab5",
@@ -54,40 +34,15 @@
     "expires": "2099-07-10 23:59:59",
     "Nick": "Evil_q_"
   },
-  "ef7ce3f192439304b35db961c602f6bc": {
-    "hwid": "7b2693491f9f0390369d8fe8989de8effaa0f615d4a3ca023fd791559abff01e",
-    "expires": "2025-07-07 23:59:59",
-    "Nick": "JogaBonito"
-  },
-  "34f9b97b10aa2784dfe6be051bc58619": {
-    "hwid": "d52888941724b5d895c15bb15d0793aaa54e9db920553d52c815ae9ef655a651",
-    "expires": "2025-07-08 23:59:59",
-    "Nick": "Tommy"
-  },
-  "59674a18a1fc8dd5585cd229332638ed": {
-    "hwid": "afc8743f7f0a051068a7177eeab2543bcda1901df4c8884095983d2f68f0ae10",
-    "expires": "2025-07-04 23:59:59",
-    "Nick": "Pajiloy"
-  },
-  "199bd771208b51690423d82f4f852814": {
-    "hwid": "c4b5786e94465ee1dcf5d6dfb35dece439f9442ff19130384ec33cd997e5b641",
-    "expires": "2025-07-04 23:59:59",
-    "Nick": "frag1kkk"
-  },
   "5db75624ac876f2e7f58541fa1ed6398": {
     "hwid": "819c75be29265350c15ca24775e59f26474d71983364ba97bab945c920990b28",
-    "expires": "2025-08-21 23:59:59",
+    "expires": "2025-09-22 23:59:59",
     "Nick": "Gabimaru"
   },
   "5037ca5cf595ec9eb0c2cf6cc75b72ff": {
     "hwid": "14c9c191bbaa194af489ca0bfa81cef225af7a07434311f4585f464a67f7aea4",
     "expires": "2025-08-06 23:59:59",
     "Nick": "kyokkai"
-  },
-  "fb3b8c07f3e1e4167953cd0dbeb89e54": {
-    "hwid": "227826cc6edf115f95593607d02537ff6570fed0804d387de1a9cb7e3caf8819",
-    "expires": "2025-07-17 23:59:59",
-    "Nick": "Avos"
   },
   "7ab6b1cd2c6e6a34e0deaf254cda3723": {
     "hwid": "1506ac995d7df92fe16bae073d216d2eb460dceb439a53ecce332b6a5a30a8f4",
@@ -99,25 +54,10 @@
     "expires": "2025-09-03 23:59:59",
     "Nick": "Mia"
   },
-  "a251a4792810c6b109e418b02b9e6d4a": {
-    "hwid": "3c2bd83687764c14e110cad34014ffd6b7a3ed7e21e8276799332b0bf3a35be9",
-    "expires": "2025-08-05 23:59:59",
-    "Nick": "Kami"
-  },
   "5babe4988166236750b0777f38d00147": {
     "hwid": "29d955850f9f2d86ebcc82cf4c5ae340f5a068e26652c12919c361473d48c3c0",
     "expires": "2025-08-16 23:59:59",
     "Nick": "1321"
-  },
-  "5babe4988166236750b0777f38d56147": {
-    "hwid": "29d955850f9f2d86ebcc82cf4c5ae340f5a068e26652c12919c361473d48c3c0",
-    "expires": "2025-08-05 23:59:59",
-    "Nick": "Sasha"
-  },
-  "test_2_days_dunich": {
-    "hwid": "9a778fb6f40c6960cb7d6f05cbcf82bed7a6e32ff04d8ca216b02c1c2c5e7e6e",
-    "expires": "2025-08-05 23:59:59",
-    "Nick": "Dunich"
   },
   "6e0befb253a95c7ee68126541f963d53": {
     "hwid": "a0b2e313420eff1c93e7011b07abe00aa0d2e78245dc73dc57b913bf1839af4e",
